@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+H1{
+    size: 20px;
+    font-family: luminari, fantasy;
+    word-spacing: 10px;
+    margin-top: 100px;
+  
+}
+
+img{
+    width: 1400px;
+    height: 1000px;
+}
